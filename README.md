@@ -1,4 +1,4 @@
-# F1 Optimization
+# Optimización de Estrategia de Neumáticos en F1 
 
 Trabajo práctico integrador de Inteligencia Computacional. El proyecto optimiza la **estrategia de neumáticos y pit stops** de una carrera de Fórmula 1 combinando:
 
